@@ -32,7 +32,7 @@
             </a>
             <div class="navbar-brand mb-1 h4 mr-lg-5">
                </span>
-              <!--  <h2><a href="homePage.php"> BaaZaar </a></h2> -->
+                <h2><a href="homePage.php"> BaaZaar </a></h2>
             </div>
          </div>
          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
