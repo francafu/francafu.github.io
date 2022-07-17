@@ -96,7 +96,7 @@
                      echo '<a class="dropdown-item" href="../backend/logout.php">Logout</a>';
                      echo '</div>';
                      echo '</div>';
-                  }else if($_SESSION['type']="Buyer"){
+                  }else if($_SESSION['type']=="Buyer"){
                     echo'<div class="dropdown">';
                     echo'<button class="btn btn-danger" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                       menu
